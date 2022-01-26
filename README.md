@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Long
-- 👀 I’m interested in Web app development
-- 🌱 I’m currently learning Hybrid App
-- 💞️ I’m looking to collaborate on Hybrid App development
 - 📫 Contact me via gmail: nguyenlong3172000@gmail.com
 
 <!---
